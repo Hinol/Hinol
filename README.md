@@ -2,7 +2,7 @@
 -  Web Dev
 -  Lua, JavaScript, HTML, CSS
 -  Roblox Developer
--  TechBlox
+
 
 <!---
 Hinol/Hinol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
