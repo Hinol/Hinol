@@ -1,6 +1,6 @@
 - Hinol
 -  Web Dev
--  Luau, JavaScript, HTML, CSS
+-  Luau
 -  Roblox Developer
 
 
